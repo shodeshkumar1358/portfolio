@@ -1,0 +1,64 @@
+%PDF-1.4
+%----
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 2804 >>
+stream
+0.12 0.14 0.21 rg BT /F2 27 Tf 1 0 0 1 52 744 Tm (SHODESH KUMAR) Tj ET
+0.43 0.33 0.82 rg BT /F2 11 Tf 1 0 0 1 52 723 Tm (MERN STACK DEVELOPER  |  WEB DEVELOPER) Tj ET
+0.16 0.18 0.25 rg BT /F1 9.5 Tf 1 0 0 1 52 704 Tm (Dhaka, Bangladesh) Tj ET
+0.20 0.39 0.70 rg BT /F1 9.5 Tf 1 0 0 1 52 689 Tm (GitHub: github.com/shodeshkumar1358) Tj ET
+0.58 0.44 0.96 RG 1.5 w 52 675 m 560 675 l S
+0.44 0.34 0.82 rg BT /F2 10 Tf 1 0 0 1 52 653 Tm (PROFILE) Tj ET
+0.82 0.82 0.88 RG 1.5 w 52 646 m 560 646 l S
+0.25 0.28 0.36 rg BT /F1 9.5 Tf 1 0 0 1 52 630 Tm (Web developer focused on responsive applications built with React, Next.js, Node.js, and MongoDB.) Tj ET
+0.25 0.28 0.36 rg BT /F1 9.5 Tf 1 0 0 1 52 616 Tm (Interested in frontend and junior full-stack opportunities; values clean interfaces, reusable) Tj ET
+0.25 0.28 0.36 rg BT /F1 9.5 Tf 1 0 0 1 52 602 Tm (components, practical problem solving, and maintainable code.) Tj ET
+0.44 0.34 0.82 rg BT /F2 10 Tf 1 0 0 1 52 575 Tm (TECHNICAL SKILLS) Tj ET
+0.82 0.82 0.88 RG 1.5 w 52 568 m 560 568 l S
+0.25 0.28 0.36 rg BT /F1 9.5 Tf 1 0 0 1 52 552 Tm (Frontend: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS) Tj ET
+0.25 0.28 0.36 rg BT /F1 9.5 Tf 1 0 0 1 52 537 Tm (Backend: Node.js, Express.js, REST APIs, API integration, authentication fundamentals) Tj ET
+0.25 0.28 0.36 rg BT /F1 9.5 Tf 1 0 0 1 52 522 Tm (Data and tools: MongoDB, SQL fundamentals, Git, GitHub, VS Code, npm, Vercel, Netlify) Tj ET
+0.44 0.34 0.82 rg BT /F2 10 Tf 1 0 0 1 52 494 Tm (SELECTED PROJECTS) Tj ET
+0.82 0.82 0.88 RG 1.5 w 52 487 m 560 487 l S
+0.15 0.17 0.24 rg BT /F2 11 Tf 1 0 0 1 52 471 Tm (FitLog - Workout Library and Planning App) Tj ET
+0.25 0.28 0.36 rg BT /F1 9 Tf 1 0 0 1 52 455 Tm (Next.js, React, TypeScript, Tailwind CSS, REST API, LocalStorage) Tj ET
+0.25 0.28 0.36 rg BT /F1 9 Tf 1 0 0 1 52 441 Tm (Workout library to browse workouts, organize daily plans, and save workouts for later.) Tj ET
+0.20 0.39 0.70 rg BT /F1 9 Tf 1 0 0 1 52 427 Tm (Live: fitlog-next-js-projects.vercel.app) Tj ET
+0.15 0.17 0.24 rg BT /F2 11 Tf 1 0 0 1 52 397 Tm (BazarDor - Market Price Platform \(In development\)) Tj ET
+0.25 0.28 0.36 rg BT /F1 9 Tf 1 0 0 1 52 381 Tm (Next.js, TypeScript, React, Tailwind CSS, DaisyUI, Better Auth, MongoDB) Tj ET
+0.25 0.28 0.36 rg BT /F1 9 Tf 1 0 0 1 52 367 Tm (Bangla-language platform concept for product browsing and market price comparisons.) Tj ET
+0.25 0.28 0.36 rg BT /F1 9 Tf 1 0 0 1 52 353 Tm (Authentication and profile features are planned. Repository: github.com/shodeshkumar1358/) Tj ET
+0.20 0.39 0.70 rg BT /F1 9 Tf 1 0 0 1 52 339 Tm (bazardor-next-js-project) Tj ET
+0.82 0.82 0.88 RG 1.5 w 52 315 m 560 315 l S
+0.42 0.45 0.53 rg BT /F1 8.5 Tf 1 0 0 1 52 296 Tm (Project details and links: shodeshkumar1358 portfolio) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000354 00000 n 
+0000000456 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3312
+%%EOF

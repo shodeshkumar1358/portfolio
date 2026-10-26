@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio
 
-## Getting Started
+A responsive personal portfolio built with Next.js App Router, React, and CSS.
+The UI is organized into reusable components, while profile details, project
+copy, and capabilities live in one place.
 
-First, run the development server:
+## Project structure
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```text
+src/
+├── app/             # Next.js routes, metadata, and global styles
+├── components/
+│   ├── layout/      # Site header and footer
+│   ├── projects/    # Project cards and artwork
+│   ├── sections/    # Homepage sections
+│   └── ui/          # Shared interface elements
+└── data/            # Portfolio content and site configuration
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Getting started
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Use Node.js 20.9 or newer.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm install
+npm run dev
+```
 
-## Learn More
+Open [http://localhost:3000](http://localhost:3000) to view the site.
 
-To learn more about Next.js, take a look at the following resources:
+## Make it yours
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Edit `src/data/portfolio.js` with your profile, contact details, project
+   information, skills, services, learning topics, and verified experience.
+2. Update the page title and descriptions in `src/app/layout.js`.
+3. Set `NEXT_PUBLIC_SITE_URL` to your deployed site URL. The default is
+   `https://yourdomain.com`; this value is used for metadata, `robots.txt`, and
+   `sitemap.xml`.
+4. Update `src/app/icon.svg` if you want a custom favicon, and add a social
+   sharing image if you want custom branding.
+5. Add your professional email, LinkedIn URL, resume PDF, project contribution
+   details, and missing project metadata. The training and experience timeline
+   contains clearly labeled fields for dates, course, and verified work history.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The project artwork is built from CSS and HTML, so the starter does not rely on
+remote image services. Project entries describe the portfolio details provided;
+verify current features, screenshots, project links, and your personal
+contribution before publishing.
 
-## Deploy on Vercel
+## Scripts
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npm run dev    # Start the local development server
+npm run lint   # Run ESLint
+npm run build  # Create a production build
+npm run start  # Serve the production build
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Deploy
+
+Deploy the `frontend` directory as a Next.js project on Vercel or another
+Next.js-compatible host. Configure `NEXT_PUBLIC_SITE_URL` in the deployment
+environment before building.
